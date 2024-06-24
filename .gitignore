@@ -40,5 +40,3 @@ out/
 application-local.properties
 application-production.properties
 
-# react build
-src/main/resources/static
