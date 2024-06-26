@@ -15,7 +15,7 @@ riot.api.key=<api-key> # riot api key retrieved from https://developer.riotgames
 
 ```
 ./gradlew bootRun
-# you can also use your IDE to run app and that method is signicantly faster
+# you can also use your IDE to run app which is significantly faster
 ```
 
 ## Hot-reload on Intellij with `spring-boot-devtools`
